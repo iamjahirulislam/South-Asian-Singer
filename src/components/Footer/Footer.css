@@ -1,0 +1,14 @@
+.footer-container{
+    margin-top: 25px;
+    text-align: center;
+    color: #fffffe;
+    background-color: #404977;
+}
+
+.footer-container p{
+    padding: 10px 0;
+}
+.footer-container .social-id i{
+    margin: 0 5px;
+    color: #fffffe;
+}

@@ -1,0 +1,11 @@
+.cart{
+    margin: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    color: #fffffe;
+    background-color: #2329468a;
+    position: fixed;
+}
+.added-list ul li {
+    list-style-type: none;
+}

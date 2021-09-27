@@ -1,0 +1,25 @@
+.singer-details{
+    text-align: center;
+    margin: 10px;
+    line-height: 10px;
+    background-color: #b6b9c9;
+}
+.singer-details img{
+    object-fit: cover;
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    margin-top: 20px;
+}
+.card-body .social-id i{
+    color: #232946;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.btn-regular{
+    color: #232946;
+    background-color: #eebbc3;
+}
+.btn-regular:hover{
+    background-color: #232946;
+}
